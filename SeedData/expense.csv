@@ -1,0 +1,75 @@
+﻿Month,TextFormula,FinalFunction,Code,Number,Paytype,EmployeeName,Fullerton,Downey,Cerritos,Rancho,TTW,Comment,GrossPayNoBonus,eeTrueUp
+1,485,Office,108,485,Hourly,Christina Franklin,1,0,0,0,0,,2892.84,3522.611268
+1,480,Office,108,480,Hourly,Rosa Suarez,1,0,0,0,0,,2652.55,3230.010135
+1,448,Office,108,448,Hourly,Stephanie Pena,1,0,0,0,0,,2775.14,3379.287978
+1,417,Office,108,417,Hourly,Veronica Sanchez,1,0,0,0,0,,3825.91,4658.810607
+1,427,Office,108,427,Hourly,Ruby A Enesi,1,0,0,0,0,,3526.34,4294.024218
+1,358,Office,108,358,Salary,Stephanie Morales,0.7,0.05,0.25,0,0,,4846.16,5901.169032
+1,357,Office,108,357,Hourly,Hector Ramirez,0,1,0,0,0,,2879.82,3506.756814
+1,321,Office,108,321,Hourly,Diana Choto,1,0,0,0,0,,3124.49,3804.691473
+1,167,Office,108,167,Hourly,Contea Kham,1,0,0,0,0,,0,0
+1,149,Office,108,149,Hourly,Rocio Rivera,1,0,0,0,0,,3367.56,4100.677812
+1,116,Office,108,116,Salary,April M Salazar,1,0,0,0,0,,5974,7274.5398
+1,506,Office,108,506,Hourly,Cynthia Navarro,0,0,1,0,0,,2837.96,3455.783892
+1,505,Office,108,505,Hourly,Mariana Hernandez,1,0,0,0,0,,2711.34,3301.598718
+1,537,Office,108,537,Hourly,Tanya Hernandez,1,0,0,0,0,,3473.76,4229.997552
+1,538,Office,108,538,Hourly,Evelyn Ahrens,1,0,0,0,0,,3346.77,4075.361829
+1,135,Office,108,135,Hourly,Sandy Kham,1,0,0,0,0,,646.87,787.693599
+1,450,Office,108,450,Hourly,Annette N Vasquez,1,0,0,0,0,,2422.89,2950.353153
+1,551,Office,108,551,Hourly,Danyel Marberry,0,0,1,0,0,,2790.9,3398.47893
+1,550,Office,108,550,Hourly,Gendell Arrecis,0,0,1,0,0,,2917.43,3552.554511
+2,485,Office,108,485,Hourly,Christina Franklin,1,0,0,0,0,,2846.53,3466.219581
+2,480,Office,108,480,Hourly,Rosa Suarez,1,0,0,0,0,,2633.08,3206.301516
+2,448,Office,108,448,Hourly,Stephanie Pena,1,0,0,0,0,,2600.23,3166.300071
+2,417,Office,108,417,Hourly,Veronica Sanchez,1,0,0,0,0,,4095.08,4986.578916
+2,427,Office,108,427,Hourly,Ruby A Enesi,1,0,0,0,0,,3353.94,4084.092738
+2,358,Office,108,358,Salary,Stephanie Morales,0.7,0.05,0.25,0,0,,4846.16,5901.169032
+2,357,Office,108,357,Hourly,Hector Ramirez,0,1,0,0,0,,2880.54,3507.633558
+2,321,Office,108,321,Hourly,Diana Choto,1,0,0,0,0,,3070.67,3739.154859
+2,167,Office,108,167,Hourly,Contea Kham,1,0,0,0,0,,0,0
+2,149,Office,108,149,Hourly,Rocio Rivera,1,0,0,0,0,,3370.08,4103.746416
+2,116,Office,108,116,Salary,April M Salazar,1,0,0,0,0,,5974,7274.5398
+2,506,Office,108,506,Hourly,Cynthia Navarro,0,0,1,0,0,,2970,3616.569
+2,505,Office,108,505,Hourly,Mariana Hernandez,1,0,0,0,0,,2735.3,3330.77481
+2,537,Office,108,537,Hourly,Tanya Hernandez,1,0,0,0,0,,3486.77,4245.839829
+2,538,Office,108,538,Hourly,Evelyn Ahrens,1,0,0,0,0,,3255.63,3964.380651
+2,135,Office,108,135,Hourly,Sandy Kham,1,0,0,0,0,,157.5,191.78775
+2,450,Office,108,450,Hourly,Annette N Vasquez,1,0,0,0,0,,2695.48,3282.285996
+2,551,Office,108,551,Hourly,Danyel Marberry,0,0,1,0,0,,2883.42,3511.140534
+2,550,Office,108,550,Hourly,Gendell Arrecis,0,0,1,0,0,,3029.3,3688.77861
+3,485,Office,108,485,Hourly,Christina Franklin,1,0,0,0,0,,2870.45,3495.346965
+3,480,Office,108,480,Hourly,Rosa Suarez,1,0,0,0,0,,2650.16,3227.099832
+3,448,Office,108,448,Hourly,Stephanie Pena,1,0,0,0,0,,2842.62,3461.458374
+3,417,Office,108,417,Hourly,Veronica Sanchez,1,0,0,0,0,,3742.09,4556.742993
+3,427,Office,108,427,Hourly,Ruby A Enesi,1,0,0,0,0,,3387.45,4124.897865
+3,358,Office,108,358,Salary,Stephanie Morales,0.7,0.05,0.25,0,0,,4846.16,5901.169032
+3,357,Office,108,357,Hourly,Hector Ramirez,0,1,0,0,0,,2881.26,3508.510302
+3,321,Office,108,321,Hourly,Diana Choto,1,0,0,0,0,,3111.66,3789.068382
+3,167,Office,108,167,Hourly,Contea Kham,1,0,0,0,0,,0,0
+3,149,Office,108,149,Hourly,Rocio Rivera,1,0,0,0,0,,3384.25,4121.001225
+3,116,Office,108,116,Salary,April M Salazar,1,0,0,0,0,,5974,7274.5398
+3,506,Office,108,506,Hourly,Cynthia Navarro,1,0,0,0,0,,2945.02,3586.150854
+3,505,Office,108,505,Hourly,Mariana Hernandez,1,0,0,0,0,,2734.02,3329.216154
+3,537,Office,108,537,Hourly,Tanya Hernandez,1,0,0,0,0,,3427.43,4173.581511
+3,538,Office,108,538,Hourly,Evelyn Ahrens,1,0,0,0,0,,3162.31,3850.744887
+3,135,Office,108,135,Hourly,Sandy Kham,1,0,0,0,0,,0,0
+3,450,Office,108,450,Hourly,Annette N Vasquez,1,0,0,0,0,,2675.99,3258.553023
+3,551,Office,108,551,Hourly,Danyel Marberry,0,0,1,0,0,,2865.42,3489.221934
+3,550,Office,108,550,Hourly,Gendell Arrecis,0,0,1,0,0,,2983.4,3632.88618
+4,485,Office,108,485,Hourly,Christina Franklin,1,0,0,0,0,,2165.17,2636.527509
+4,480,Office,108,480,Hourly,Rosa Suarez,1,0,0,0,0,,3326.25,4050.374625
+4,448,Office,108,448,Hourly,Stephanie Pena,1,0,0,0,0,,3501.34,4263.581718
+4,417,Office,108,417,Hourly,Veronica Sanchez,1,0,0,0,0,,4586.45,5584.920165
+4,427,Office,108,427,Hourly,Ruby A Enesi,1,0,0,0,0,,4150.83,5054.465691
+4,358,Office,108,358,Salary,Stephanie Morales,0.7,0.05,0.25,0,0,,6057.7,7376.46129
+4,357,Office,108,357,Hourly,Hector Ramirez,0,1,0,0,0,,3617.1,4404.54267
+4,321,Office,108,321,Hourly,Diana Choto,1,0,0,0,0,,3851.11,4689.496647
+4,149,Office,108,149,Hourly,Rocio Rivera,1,0,0,0,0,,4248.2,5173.03314
+4,116,Office,108,116,Salary,April M Salazar,1,0,0,0,0,,7467.5,9093.17475
+4,506,Office,108,506,Hourly,Cynthia Navarro,1,0,0,0,0,,3933.01,4789.226277
+4,505,Office,108,505,Hourly,Mariana Hernandez,1,0,0,0,0,,3594.64,4377.193128
+4,537,Office,108,537,Hourly,Tanya Hernandez,1,0,0,0,0,,3939.36,4796.958672
+4,538,Office,108,538,Hourly,Evelyn Ahrens,1,0,0,0,0,,3956.07,4817.306439
+4,450,Office,108,450,Hourly,Annette N Vasquez,1,0,0,0,0,,3292.38,4009.131126
+4,551,Office,108,551,Hourly,Danyel Marberry,0,0,1,0,0,,3567.06,4343.608962
+4,550,Office,108,550,Hourly,Gendell Arrecis,0,0,1,0,0,,3740.59,4554.916443

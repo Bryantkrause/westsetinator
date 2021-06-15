@@ -1,0 +1,636 @@
+﻿month,HireDate,BudgetedOTTT,Type,Department,EmployeeID,Name,OTTT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,NoWork
+2,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+2,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+2,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+2,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+2,38083,0.025,Hourly,108,149,Rocio Rivera,0.001996008,40,0.08,0,0,0,0,0,0,0
+2,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+2,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+2,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+2,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+2,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+2,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+2,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+2,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+2,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+2,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+2,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+2,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+2,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+2,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+2,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+2,42691,0.025,Hourly,108,321,Diana Choto,0.025834755,39.97,1.06,0,0,0,0,0,0,0
+2,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+2,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+2,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+2,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+2,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+2,42933,0.025,Hourly,108,357,Hector Ramirez,0,40,0,0,0,0,0,0,0,0
+2,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+2,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+2,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+2,43230,0.025,Hourly,108,417,Veronica Sanchez,0.059487421,40,2.53,0,0,0,0,0,0,0
+2,43325,0.025,Hourly,108,427,Ruby A Enesi,0.001997503,39.97,0.08,0,0,0,0,0,0,0
+2,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+2,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+2,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+2,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+2,43423,0.025,Hourly,108,448,Stephanie Pena,0.02200489,16,0.36,0,0,10.87,0,0,0,0
+2,43493,0.025,Hourly,108,450,Annette N Vasquez,0.002030972,39.31,0.08,0,0,0,0,0,0,0
+2,43598,0.025,Hourly,108,480,Rosa Suarez,0.00127421,39.19,0.05,0,0,0,0,0,0,0
+2,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+2,43668,0.025,Hourly,108,485,Christina Franklin,0.017530864,39.79,0.71,0,0,0,0,0,0,0
+2,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+2,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.018404908,40,0.75,0,0,0,0,0,0,0
+2,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.000936622,32,0.03,0,8,0,0,0,0,0
+2,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+2,44011,0.025,Hourly,108,537,Tanya Hernandez,0.004848937,26.68,0.13,0,13.32,0,0,0,0,0
+2,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.001750438,39.92,0.07,0,0,0,0,0,0,0
+2,44109,0.025,Hourly,108,551,Danyel Marberry ,0.000750375,39.95,0.03,0,0,0,0,0,0,0
+2,44109,0.025,Hourly,108,550,gendell Arrecis ,0.0234375,40,0.96,0,0,0,0,0,0,0
+2,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+2,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+2,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+2,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+2,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+2,38083,0.025,Hourly,108,149,Rocio Rivera,0.001497753,40,0.06,0,0,0,0,0,0,0
+2,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+2,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+2,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+2,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+2,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+2,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+2,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+2,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+2,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+2,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+2,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+2,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+2,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+2,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+2,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+2,42691,0.025,Hourly,108,321,Diana Choto,0,0,0,0,30.5,0,0,0,0,0
+2,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+2,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+2,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+2,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+2,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+2,42933,0.025,Hourly,108,357,Hector Ramirez,0.00049975,40,0.02,0,0,0,0,0,0,0
+2,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+2,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+2,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+2,43230,0.025,Hourly,108,417,Veronica Sanchez,0.152003392,40,7.17,0,0,0,0,0,0,0
+2,43325,0.025,Hourly,108,427,Ruby A Enesi,0.045118167,40,1.89,0,0,0,0,0,0,0
+2,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+2,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+2,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+2,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+2,43423,0.025,Hourly,108,448,Stephanie Pena,0.004727544,40,0.19,0,0,0,0,0,0,0
+2,43493,0.025,Hourly,108,450,Annette N Vasquez,0.003012048,39.72,0.12,0,0,0,0,0,0,0
+2,43598,0.025,Hourly,108,480,Rosa Suarez,0.007798742,39.44,0.31,0,0,0,0,0,0,0
+2,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+2,43668,0.025,Hourly,108,485,Christina Franklin,0.017605634,36.27,0.65,0,3,0,0,0,0,0
+2,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+2,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.008264463,39.6,0.33,0,0,0,0,0,0,0
+2,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.006073992,36,0.22,0,4,0,0,0,0,0
+2,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+2,44011,0.025,Hourly,108,537,Tanya Hernandez,0.024390244,32,0.8,0,8,0,0,0,0,0
+2,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.007197816,40,0.29,0,0,0,0,0,0,0
+2,44109,0.025,Hourly,108,551,Danyel Marberry ,0,39.99,0,0,0,0,0,0,0,0
+2,44109,0.025,Hourly,108,550,gendell Arrecis ,0.003316327,39.07,0.13,0,0.9,0,0,0,0,0
+2,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+2,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+2,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+2,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+2,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+2,38083,0.025,Hourly,108,149,Rocio Rivera,0.003115265,32,0.1,0,0,8,0,0,0,0
+2,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+2,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+2,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+2,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+2,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+2,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+2,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+2,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+2,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+2,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+2,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+2,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+2,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+2,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+2,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+2,42691,0.025,Hourly,108,321,Diana Choto,0.014785609,39.98,0.6,0,0,0,0,0,0,0
+2,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+2,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+2,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+2,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+2,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+2,42933,0.025,Hourly,108,357,Hector Ramirez,0,40,0,0,0,0,0,0,0,0
+2,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+2,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+2,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+2,43230,0.025,Hourly,108,417,Veronica Sanchez,0.071356018,36.57,2.81,0,3.5,0,0,0,0,0
+2,43325,0.025,Hourly,108,427,Ruby A Enesi,0.010635667,40,0.43,0,0,0,0,0,0,0
+2,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+2,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+2,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+2,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+2,43423,0.025,Hourly,108,448,Stephanie Pena,0.010424423,39.87,0.42,0,0,0,0,0,0,0
+2,43493,0.025,Hourly,108,450,Annette N Vasquez,0.008699975,39.88,0.35,0,0,0,0,0,0,0
+2,43598,0.025,Hourly,108,480,Rosa Suarez,0.001371742,36.4,0.05,0,0,0,0,0,0,0
+2,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+2,43668,0.025,Hourly,108,485,Christina Franklin,0.00622084,31.95,0.2,0,8,0,0,0,0,0
+2,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+2,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.000628733,31.79,0.02,0,8,0,0,0,0,0
+2,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.001497753,40,0.06,0,0,0,0,0,0,0
+2,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+2,44011,0.025,Hourly,108,537,Tanya Hernandez,0.007767477,39.6,0.31,0,0,0,0,0,0,0
+2,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.073430623,40,3.17,0,0,0,0,0,0,0
+2,44109,0.025,Hourly,108,551,Danyel Marberry ,0.002742458,40,0.11,0,0,0,0,0,0,0
+2,44109,0.025,Hourly,108,550,gendell Arrecis ,0.025103583,40,1.03,0,0,0,0,0,0,0
+2,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+2,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+2,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+2,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+2,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+2,38083,0.025,Hourly,108,149,Rocio Rivera,0.003984064,40,0.16,0,0,0,0,0,0,0
+2,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+2,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+2,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+2,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+2,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+2,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+2,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+2,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+2,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+2,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+2,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+2,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+2,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+2,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+2,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+2,42691,0.025,Hourly,108,321,Diana Choto,0.00621118,40,0.25,0,0,0,0,0,0,0
+2,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+2,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+2,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+2,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+2,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+2,42933,0.025,Hourly,108,357,Hector Ramirez,0.000999001,40,0.04,0,0,0,0,0,0,0
+2,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+2,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+2,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+2,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+2,43230,0.025,Hourly,108,417,Veronica Sanchez,0.020807834,40,0.85,0,0,0,0,0,0,0
+2,43325,0.025,Hourly,108,427,Ruby A Enesi,0.005717127,40,0.23,0,0,0,0,0,0,0
+2,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+2,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+2,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+2,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+2,43423,0.025,Hourly,108,448,Stephanie Pena,0.002998501,39.9,0.12,0,0,0,0,0,0,0
+2,43493,0.025,Hourly,108,450,Annette N Vasquez,0.000250501,39.91,0.01,0,0,0,0,0,0,0
+2,43598,0.025,Hourly,108,480,Rosa Suarez,0.001880878,31.84,0.06,0,0,0,0,0,0,0
+2,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+2,43668,0.025,Hourly,108,485,Christina Franklin,0.06323185,24,1.62,0,8,0,0,0,0,0
+2,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+2,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.009417596,39.97,0.38,0,0,0,0,0,0,0
+2,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.005717127,40,0.23,0,0,0,0,0,0,0
+2,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+2,44011,0.025,Hourly,108,537,Tanya Hernandez,0.004251063,39.82,0.17,0,0,0,0,0,0,0
+2,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.010880317,40,0.44,0,0,0,0,0,0,0
+2,44109,0.025,Hourly,108,551,Danyel Marberry ,0.001497753,40,0.06,0,0,0,0,0,0,0
+2,44109,0.025,Hourly,108,550,gendell Arrecis ,0.011124845,40,0.45,0,0,0,0,0,0,0
+1,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+1,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,16,16,0,0,0
+1,44049,0.025,Hourly,108,135,Sandy Kham,0.01754386,28,0.5,0,0,0,0,0,0,0
+1,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+1,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+1,38083,0.025,Hourly,108,149,Rocio Rivera,0,29.5,0,0,0,2.5,8,0,0,0
+1,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+1,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+1,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+1,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+1,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+1,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+1,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+1,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+1,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+1,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+1,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+1,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+1,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+1,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+1,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+1,42691,0.025,Hourly,108,321,Diana Choto,0.03472649,31.41,1.13,0,0,0,8,0,0,0
+1,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+1,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+1,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+1,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+1,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+1,42933,0.025,Hourly,108,357,Hector Ramirez,0,32,0,0,0,0,8,0,0,0
+1,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,8,0,0,0
+1,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+1,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+1,43230,0.025,Hourly,108,417,Veronica Sanchez,0.184689812,28.65,6.49,0,0,3.5,8,0,0,0
+1,43325,0.025,Hourly,108,427,Ruby A Enesi,0.165539196,20.97,4.16,0,0,3,16,0,0,0
+1,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+1,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+1,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+1,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+1,43423,0.025,Hourly,108,448,Stephanie Pena,0,29,0,0,0,0,8,0,0,0
+1,43493,0.025,Hourly,108,450,Annette N Vasquez,0.00621118,16,0.1,0,0,0,8,0,0,0
+1,43598,0.025,Hourly,108,480,Rosa Suarez,0.016654855,27.75,0.47,0,0,0,12,0,0,0
+1,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+1,43668,0.025,Hourly,108,485,Christina Franklin,0.049472296,28.82,1.5,0,0,0,8,0,0,0
+1,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+1,43836,0.025,Hourly,108,505,Mariana  Hernandez,0,9.37,0,0,15,7,8,0,0,0
+1,43836,0.025,Hourly,108,506,Cynthia  Navarro,0,0,0,0,0,0,12.5,0,0,0
+1,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+1,44011,0.025,Hourly,108,537,Tanya Hernandez,0,0,0,0,0,0,8,0,0,0
+1,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.106316448,28.58,3.4,0,0,0,12,0,0,0
+1,44109,0.025,Hourly,108,551,Danyel Marberry ,0.010513296,32,0.34,0,0,0,0,0,0,0
+1,44109,0.025,Hourly,108,550,gendell Arrecis ,0.010207238,32,0.33,0,0,0,0,0,0,0
+1,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+1,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+1,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+1,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+1,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+1,38083,0.025,Hourly,108,149,Rocio Rivera,0.001996008,40,0.08,0,0,0,0,0,0,0
+1,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+1,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+1,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+1,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+1,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+1,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+1,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+1,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+1,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+1,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+1,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+1,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+1,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+1,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+1,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+1,42691,0.025,Hourly,108,321,Diana Choto,0.018527919,38.67,0.73,0,1.5,0,0,0,0,0
+1,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+1,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+1,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+1,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+1,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+1,42933,0.025,Hourly,108,357,Hector Ramirez,0,40,0,0,0,0,0,0,0,0
+1,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+1,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+1,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+1,43230,0.025,Hourly,108,417,Veronica Sanchez,0.013867488,32,0.45,0,8,0,0,0,0,0
+1,43325,0.025,Hourly,108,427,Ruby A Enesi,0.054597022,40,2.31,0,0,0,0,0,0,0
+1,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+1,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+1,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+1,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+1,43423,0.025,Hourly,108,448,Stephanie Pena,0.003984064,40,0.16,0,0,0,0,0,0,0
+1,43493,0.025,Hourly,108,450,Annette N Vasquez,0.013359723,39.88,0.54,0,0,0,0,0,0,0
+1,43598,0.025,Hourly,108,480,Rosa Suarez,0,0,0,0,40,0,0,0,0,0
+1,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+1,43668,0.025,Hourly,108,485,Christina Franklin,0.062006079,30.86,2.04,0,9,0,0,0,0,0
+1,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+1,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.00462963,40.85,0.19,0,0,0,0,0,0,0
+1,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.032882012,40,1.36,0,0,0,0,0,0,0
+1,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+1,44011,0.025,Hourly,108,537,Tanya Hernandez,0.004371054,41,0.18,0,0,0,0,0,0,0
+1,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.061913696,40,2.64,0,0,0,0,0,0,0
+1,44109,0.025,Hourly,108,551,Danyel Marberry ,0,22.4,0,0,17.5,0,0,0,0,0
+1,44109,0.025,Hourly,108,550,gendell Arrecis ,0.040537299,40,1.69,0,0,0,0,0,0,0
+1,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+1,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+1,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+1,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+1,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+1,38083,0.025,Hourly,108,149,Rocio Rivera,0.002493766,40,0.1,0,0,0,0,0,0,0
+1,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+1,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+1,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+1,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+1,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+1,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+1,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+1,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+1,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+1,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+1,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+1,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+1,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+1,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+1,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+1,42691,0.025,Hourly,108,321,Diana Choto,0.007174173,24.91,0.18,0,8,0,0,0,0,0
+1,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+1,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+1,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+1,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+1,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+1,42933,0.025,Hourly,108,357,Hector Ramirez,0,39.99,0,0,0,0,0,0,0,0
+1,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+1,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+1,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+1,43230,0.025,Hourly,108,417,Veronica Sanchez,0.028418752,40,1.17,0,0,0,0,0,0,0
+1,43325,0.025,Hourly,108,427,Ruby A Enesi,0.030772959,40,1.27,0,0,0,0,0,0,0
+1,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+1,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+1,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+1,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+1,43423,0.025,Hourly,108,448,Stephanie Pena,0.005339806,40.98,0.22,0,0,0,0,0,0,0
+1,43493,0.025,Hourly,108,450,Annette N Vasquez,0.002898551,37.84,0.11,0,2,0,0,0,0,0
+1,43598,0.025,Hourly,108,480,Rosa Suarez,0.006089825,39.17,0.24,0,0,0,0,0,0,0
+1,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+1,43668,0.025,Hourly,108,485,Christina Franklin,0.01301627,39.43,0.52,0,0,0,0,0,0,0
+1,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+1,43836,0.025,Hourly,108,505,Mariana  Hernandez,0,38.75,0,0,0,0,0,0,0,0
+1,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.001746943,40,0.07,0,0,0,0,0,0,0
+1,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+1,44011,0.025,Hourly,108,537,Tanya Hernandez,0.002493766,32,0.08,0,8,0,0,0,0,0
+1,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.012040753,32,0.39,0,8,0,0,0,0,0
+1,44109,0.025,Hourly,108,551,Danyel Marberry ,0.038230344,40,1.59,0,0,0,0,0,0,0
+1,44109,0.025,Hourly,108,550,gendell Arrecis ,0.013806706,40,0.56,0,0,0,0,0,0,0
+1,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+1,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+1,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+1,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+1,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+1,38083,0.025,Hourly,108,149,Rocio Rivera,0.001497753,40,0.06,0,0,0,0,0,0,0
+1,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+1,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+1,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+1,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+1,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+1,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+1,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+1,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+1,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+1,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+1,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+1,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+1,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+1,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+1,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+1,42691,0.025,Hourly,108,321,Diana Choto,0.0454151,33,1.57,0,0,0,0,0,0,0
+1,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+1,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+1,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+1,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+1,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+1,42933,0.025,Hourly,108,357,Hector Ramirez,0,40,0,0,0,0,0,0,0,0
+1,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+1,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+1,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+1,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+1,43230,0.025,Hourly,108,417,Veronica Sanchez,0.025815879,40,1.06,0,0,0,0,0,0,0
+1,43325,0.025,Hourly,108,427,Ruby A Enesi,0.008192651,39.95,0.33,0,0,0,0,0,0,0
+1,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+1,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+1,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+1,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+1,43423,0.025,Hourly,108,448,Stephanie Pena,0.0020005,39.91,0.08,0,0,0,0,0,0,0
+1,43493,0.025,Hourly,108,450,Annette N Vasquez,0.001256913,39.73,0.05,0,0,0,0,0,0,0
+1,43598,0.025,Hourly,108,480,Rosa Suarez,0.018165025,31.89,0.59,0,0,8,0,0,0,0
+1,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+1,43668,0.025,Hourly,108,485,Christina Franklin,0.051642075,39.85,2.17,0,0,0,0,0,0,0
+1,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+1,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.008736895,39.71,0.35,0,0,0,0,0,0,0
+1,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.001497753,40,0.06,0,0,0,0,0,0,0
+1,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+1,44011,0.025,Hourly,108,537,Tanya Hernandez,0.002991027,40,0.12,0,0,0,0,0,0,0
+1,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.024199462,39.92,0.99,0,0,0,0,0,0,0
+1,44109,0.025,Hourly,108,551,Danyel Marberry ,0.004232014,40,0.17,0,0,0,0,0,0,0
+1,44109,0.025,Hourly,108,550,gendell Arrecis ,0.029597283,40,1.22,0,0,0,0,0,0,0
+3,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+3,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+3,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+3,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+3,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+3,38083,0.025,Hourly,108,149,Rocio Rivera,0.011857708,40,0.48,0,0,0,0,0,0,0
+3,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+3,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+3,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+3,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+3,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+3,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+3,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+3,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+3,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+3,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+3,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+3,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+3,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+3,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+3,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+3,42691,0.025,Hourly,108,321,Diana Choto,0.011289513,39.41,0.45,0,0,0,0,0,0,0
+3,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+3,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+3,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+3,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+3,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+3,42933,0.025,Hourly,108,357,Hector Ramirez,0,39.98,0,0,0,0,0,0,0,0
+3,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+3,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+3,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+3,43230,0.025,Hourly,108,417,Veronica Sanchez,0.092558984,40,4.08,0,0,0,0,0,0,0
+3,43325,0.025,Hourly,108,427,Ruby A Enesi,0.06323185,40,2.7,0,0,0,0,0,0,0
+3,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+3,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+3,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+3,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+3,43423,0.025,Hourly,108,448,Stephanie Pena,0.010635667,40,0.43,0,0,0,0,0,0,0
+3,43493,0.025,Hourly,108,450,Annette N Vasquez,0.004263858,39.7,0.17,0,0,0,0,0,0,0
+3,43598,0.025,Hourly,108,480,Rosa Suarez,0.003,39.88,0.12,0,0,0,0,0,0,0
+3,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+3,43668,0.025,Hourly,108,485,Christina Franklin,0,38.99,0,0,0,0,0,0,0,0
+3,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+3,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.003499125,39.87,0.14,0,0,0,0,0,0,0
+3,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.003241087,39.98,0.13,0,0,0,0,0,0,0
+3,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+3,44011,0.025,Hourly,108,537,Tanya Hernandez,0.003682272,37.88,0.14,0,2,0,0,0,0,0
+3,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.011613541,40,0.47,0,0,0,0,0,0,0
+3,44109,0.025,Hourly,108,551,Danyel Marberry ,0.000755668,39.67,0.03,0,0,0,0,0,0,0
+3,44109,0.025,Hourly,108,550,gendell Arrecis ,0.003240279,39.99,0.13,0,0,0,0,0,0,0
+3,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+3,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+3,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+3,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+3,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+3,38083,0.025,Hourly,108,149,Rocio Rivera,0.001996008,40,0.08,0,0,0,0,0,0,0
+3,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+3,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+3,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+3,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+3,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+3,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+3,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+3,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+3,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+3,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+3,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+3,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+3,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+3,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+3,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+3,42691,0.025,Hourly,108,321,Diana Choto,0.064108563,40,2.74,0,0,0,0,0,0,0
+3,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+3,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+3,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+3,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+3,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+3,42933,0.025,Hourly,108,357,Hector Ramirez,0.00049975,40,0.02,0,0,0,0,0,0,0
+3,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+3,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+3,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+3,43230,0.025,Hourly,108,417,Veronica Sanchez,0.008674102,40,0.35,0,0,0,0,0,0,0
+3,43325,0.025,Hourly,108,427,Ruby A Enesi,0.010146003,40,0.41,0,0,0,0,0,0,0
+3,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+3,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+3,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+3,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+3,43423,0.025,Hourly,108,448,Stephanie Pena,0.012101754,40,0.49,0,0,0,0,0,0,0
+3,43493,0.025,Hourly,108,450,Annette N Vasquez,0.003769791,39.64,0.15,0,0,0,0,0,0,0
+3,43598,0.025,Hourly,108,480,Rosa Suarez,0.022900763,32,0.75,0,0,0,0,0,0,0
+3,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+3,43668,0.025,Hourly,108,485,Christina Franklin,0.032054395,39.86,1.32,0,0,0,0,0,0,0
+3,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+3,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.003343621,38.75,0.13,0,0.92,0,0,0,0,0
+3,43836,0.025,Hourly,108,506,Cynthia  Navarro,0,39.27,0,0,0,0,0,0,0,0
+3,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+3,44011,0.025,Hourly,108,537,Tanya Hernandez,0.007444169,32,0.24,0,0,8,0,0,0,0
+3,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.009051015,36.13,0.33,0,3.87,0,0,0,0,0
+3,44109,0.025,Hourly,108,551,Danyel Marberry ,0.000759301,39.48,0.03,0,0,0,0,0,0,0
+3,44109,0.025,Hourly,108,550,gendell Arrecis ,0.00062461,32,0.02,0,8,0,0,0,0,0
+3,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+3,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+3,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+3,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+3,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+3,38083,0.025,Hourly,108,149,Rocio Rivera,0.001248439,40,0.05,0,0,0,0,0,0,0
+3,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+3,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+3,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+3,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+3,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+3,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+3,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+3,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+3,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+3,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+3,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+3,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+3,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+3,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+3,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+3,42691,0.025,Hourly,108,321,Diana Choto,0.029232643,39.85,1.2,0,0,0,0,0,0,0
+3,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+3,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+3,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+3,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+3,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+3,42933,0.025,Hourly,108,357,Hector Ramirez,0,40,0,0,0,0,0,0,0,0
+3,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+3,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+3,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+3,43230,0.025,Hourly,108,417,Veronica Sanchez,0.034981906,40,1.45,0,0,0,0,0,0,0
+3,43325,0.025,Hourly,108,427,Ruby A Enesi,0.003984064,40,0.16,0,0,0,0,0,0,0
+3,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+3,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+3,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+3,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+3,43423,0.025,Hourly,108,448,Stephanie Pena,0.01725511,37.02,0.65,0,2.98,0,0,0,0,0
+3,43493,0.025,Hourly,108,450,Annette N Vasquez,0.001562988,31.94,0.05,0,0,0,0,0,0,0
+3,43598,0.025,Hourly,108,480,Rosa Suarez,0.003042596,39.32,0.12,0,0,0,0,0,0,0
+3,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+3,43668,0.025,Hourly,108,485,Christina Franklin,0.014133333,36.97,0.53,0,3,0,0,0,0,0
+3,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+3,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.00744879,31.98,0.24,0,8,0,0,0,0,0
+3,43836,0.025,Hourly,108,506,Cynthia  Navarro,0,24.4,0,0,15,0,0,0,0,0
+3,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+3,44011,0.025,Hourly,108,537,Tanya Hernandez,0.002772964,28.77,0.08,0,7.22,0,0,0,0,0
+3,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.005472637,39.98,0.22,0,0,0,0,0,0,0
+3,44109,0.025,Hourly,108,551,Danyel Marberry ,0.005534591,39.53,0.22,0,0,0,0,0,0,0
+3,44109,0.025,Hourly,108,550,gendell Arrecis ,0.007707608,39.91,0.31,0,0,0,0,0,0,0
+3,Hire Date,Budgeted OT/TT,Type,Department,Employee ID,Name,OT/TT,Regular,Overtime,Doubletime,Sick,VACATION,Holiday,Lunch,Bereavement,No Work
+3,34239,0.025,Salary,108,116,April M Salazar,,0,0,0,0,0,0,0,0,0
+3,44049,0.025,Hourly,108,135,Sandy Kham,0,0,0,0,0,0,0,0,0,0
+3,39287,0.025,Hourly,108,144,Jason D Park,0,0,0,0,0,0,0,0,0,0
+3,38006,0.025,Hourly,108,146,Edna P Pestano,0,0,0,0,0,0,0,0,0,0
+3,38083,0.025,Hourly,108,149,Rocio Rivera,0.002742458,40,0.11,0,0,0,0,0,0,0
+3,42009,0.025,Hourly,108,167,Contea Kham,0,0,0,0,0,0,0,0,0,0
+3,41351,0.025,Hourly,108,184,Hannah Choe,0,0,0,0,0,0,0,0,0,0
+3,41512,0.025,Hourly,108,205,Joselin Altamirano,0,0,0,0,0,0,0,0,0,0
+3,41786,0.025,Hourly,108,237,Anabel Barragan,0,0,0,0,0,0,0,0,0,0
+3,42065,0.025,Hourly,108,256,Karla Chinchilla,0,0,0,0,0,0,0,0,0,0
+3,42872,0.025,Hourly,108,266,Brenda Chavez,0,0,0,0,0,0,0,0,0,0
+3,42668,0.025,Hourly,108,267,Yolanda Natalie Rojas,0,0,0,0,0,0,0,0,0,0
+3,42219,0.025,Hourly,108,272,Emma Lemus,0,0,0,0,0,0,0,0,0,0
+3,42304,0.025,Hourly,108,280,Diana Sierra,0,0,0,0,0,0,0,0,0,0
+3,42482,0.025,Hourly,108,303,Fabian Vasquez,0,0,0,0,0,0,0,0,0,0
+3,42591,0.025,Hourly,108,312,Scotty  Daeng,0,0,0,0,0,0,0,0,0,0
+3,42607,0.025,Hourly,108,314,Jantana Paphala,0,0,0,0,0,0,0,0,0,0
+3,42643,0.025,Hourly,108,315,Andrea Marquez,0,0,0,0,0,0,0,0,0,0
+3,42681,0.025,Hourly,108,317,Jeri  Patino,0,0,0,0,0,0,0,0,0,0
+3,42683,0.025,Hourly,108,320,Kathleen Giambona,0,0,0,0,0,0,0,0,0,0
+3,42691,0.025,Hourly,108,321,Diana Choto,0.009600496,31.98,0.31,0,0,8,0,0,0,0
+3,42702,0.025,Hourly,108,322,Karla  J. Martinez,0,0,0,0,0,0,0,0,0,0
+3,42760,0.025,Hourly,108,324,Maria L. Ramos,0,0,0,0,0,0,0,0,0,0
+3,42779,0.025,Hourly,108,325,Rosario J Gallo,0,0,0,0,0,0,0,0,0,0
+3,42786,0.025,Hourly,108,326,Josanna Mallada,0,0,0,0,0,0,0,0,0,0
+3,42828,0.025,Hourly,108,333,Tiffany Guerrero,0,0,0,0,0,0,0,0,0,0
+3,42933,0.025,Hourly,108,357,Hector Ramirez,0,41,0,0,0,0,0,0,0,0
+3,42933,0.025,Salary,108,358,Stephanie Morales,,0,0,0,0,0,0,0,0,0
+3,42961,0.025,Hourly,108,360,Nubian Ontiveros,0,0,0,0,0,0,0,0,0,0
+3,43031,0.025,Salary,108,371,Luiza Hernandez,,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,393,Veronica Lopez-Garcia,0,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,395,Jessica Navarro,0,0,0,0,0,0,0,0,0,0
+3,43136,0.025,Hourly,108,404,Yesenia Zamora,0,0,0,0,0,0,0,0,0,0
+3,43230,0.025,Hourly,108,417,Veronica Sanchez,0.009433962,36.75,0.35,0,3.25,0,0,0,0,0
+3,43325,0.025,Hourly,108,427,Ruby A Enesi,0.007444169,40,0.3,0,0,0,0,0,0,0
+3,43328,0.025,Salary,108,431,Johnny R.  Ramirez,0,0,0,0,0,0,0,0,0,0
+3,43356,0.025,Hourly,108,434,Carlos  Ramirez,0,0,0,0,0,0,0,0,0,0
+3,43381,0.025,Hourly,108,440,Denice Garcia,0,0,0,0,0,0,0,0,0,0
+3,43388,0.025,Hourly,108,441,Malele M Edwards,0,0,0,0,0,0,0,0,0,0
+3,43423,0.025,Hourly,108,448,Stephanie Pena,0.019331586,29.93,0.59,0,8,0,0,0,0,0
+3,43493,0.025,Hourly,108,450,Annette N Vasquez,0,39.41,0,0,0,0,0,0,0,0
+3,43598,0.025,Hourly,108,480,Rosa Suarez,0.002756201,39.8,0.11,0,0,0,0,0,0,0
+3,43633,0.025,Hourly,108,482,Yvette Beltran,0,0,0,0,0,0,0,0,0,0
+3,43668,0.025,Hourly,108,485,Christina Franklin,0.120203837,29.35,4.01,0,0,0,0,0,0,0
+3,43731,0.025,Hourly,108,494,Priscilla Luna,0,0,0,0,0,0,0,0,0,0
+3,43836,0.025,Hourly,108,505,Mariana  Hernandez,0.011163483,39.86,0.45,0,0,0,0,0,0,0
+3,43836,0.025,Hourly,108,506,Cynthia  Navarro,0.005533597,12.58,0.07,0,13,0,0,0,0,0
+3,43894,0.025,Hourly,108,511,Angela Isleib,0,0,0,0,0,0,0,0,0,0
+3,44011,0.025,Hourly,108,537,Tanya Hernandez,0.003314635,39.09,0.13,0,0,0,0,0,0,0
+3,44018,0.025,Hourly,108,538,Evelyn Ahrens,0.009302326,31.95,0.3,0,0,0,0,0,0,0
+3,44109,0.025,Hourly,108,551,Danyel Marberry ,0.001009336,39.59,0.04,0,0,0,0,0,0,0
+3,44109,0.025,Hourly,108,550,gendell Arrecis ,0.008919722,40,0.36,0,0,0,0,0,0,0
